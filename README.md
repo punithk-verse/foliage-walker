@@ -41,6 +41,10 @@ Then write `foliage_walker.py` into the notebook and run it as above.
 - Walking time is a flat 4 km/h assumption. The tool knows nothing about terrain, crowds or closures.
 - The public Overpass server can time out; the script retries across mirrors.
 - Tiny models ignore length limits, so the output is trimmed to 3 sentences.
+##screenshots
+<img width="627" height="482" alt="image" src="https://github.com/user-attachments/assets/67a7a3a4-3b59-4179-976e-a4ac147560f8" />
+<img width="414" height="317" alt="image" src="https://github.com/user-attachments/assets/dd63ae6e-27db-4979-a716-2f2739b6e4bf" />
+
 
 ## Example
 See `examples/plan.md` and `examples/route.gpx`.
